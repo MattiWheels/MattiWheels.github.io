@@ -45,10 +45,10 @@ table {
 /* end of css reset */
 
 .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 720px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 720px;
 }
 
 .navbar {
@@ -61,15 +61,15 @@ table {
 }
 
 img[alt="blue"] {
-    padding: 0px 0px 50px 0px;
+  padding: 0px 0px 50px 0px;
 }
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #fff;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #fff;
 }
 
 li {
@@ -77,53 +77,49 @@ li {
 }
 
 li a {
-    display: block;
-    color: #000;
-    text-align: center;
-    padding: 15px 15px;
-    text-decoration: none;
+  display: block;
+  color: #000;
+  text-align: center;
+  padding: 15px 15px;
+  text-decoration: none;
 }
 
 .heading {
-    padding-top: 15px;
+  padding-top: 15px;
 }
 
 .cover_img {
-    position: relative;
-    display: inline-block;
+  position: relative;
+  display: inline-block;
 	margin-top: 30px;
 }
 
 .cover_img .img-top {
-    display: none;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 99;
-}
-
-.cover_img:hover .img-top {
-    display: inline;
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
 }
 
 .row {
-    display: flex;
+  display: flex;
 }
 
 .column {
-    flex: 33%;
-    padding: 10px 30px;
+  flex: 33%;
+  padding: 10px 30px;
 }
 
 h2 {
-    font-family: serif;
-    font-size: 25px;
-    padding-bottom: 20px;
+  font-family: serif;
+  font-size: 25px;
+  padding-bottom: 20px;
 }
 
 a {
-    text-decoration: none;
-    color: #000;
+  text-decoration: none;
+  color: #000;
 }
 
 .italics {
