@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+#game { 
+    background: rgb(159, 173, 151); 
+    display: block; 
+    margin: 0 auto; 
+    border: 2px solid white;
+}
